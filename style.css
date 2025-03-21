@@ -418,3 +418,19 @@ img{
 .phnes{
     font-size: 17px;
 }
+
+
+footer{
+    background-color: #D2D2D2;
+    display: flex;
+    justify-content: space-between;
+}.leftlist ul{
+    display: flex;
+    gap: 3rem;
+    list-style: none;
+}.rightlist ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    list-style: none;
+    gap: 1rem;
+}
