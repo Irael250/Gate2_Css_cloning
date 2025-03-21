@@ -251,3 +251,83 @@ img{
     font-style: oblique;
     
 }
+
+.grid1{
+    font-size: 25px;
+    margin-left: 50px;
+    color: #151b2f;
+}
+.gramer{
+    width: 25%;
+    height: 200px;
+}
+
+.second{
+    display: flex;
+}
+.after{
+
+    font-size: 22px;
+    margin-left: 30px;
+}
+
+.story{
+    font-size: 25px;
+}
+
+.grid3{
+
+    width: 100%;
+    height: 400px;
+}
+.childs{
+
+    width: 30%;
+    height: 50vh;
+}
+.third{
+    font-size: 20px;
+    margin-left: 450px;
+    margin-top: -470px;
+}
+.withpastortext{
+    width: 60%;
+    height: 500px;
+    background: #222b49;
+    color: #edf7fa;
+    font-size: 30px;
+    text-align: center;
+}
+
+.imgwithpastor{
+    width: 44%;
+    height: 560px ;
+    margin-left: 700px;
+    margin-top: -530px;
+}
+
+.secondnav{
+    width: 100%;
+    height: 120px;
+    background: #0f0e2a;
+
+}
+.secondnav ul{
+    display: flex;
+    gap: 0px;
+    list-style: none;
+    margin-top: 100px;
+    
+}
+
+.secondnav ul li{
+   margin-top: 50px;
+   margin-left: 120px;
+}
+.secondnav ul li a{
+    color: #edf7fa;
+    text-decoration: none;
+    text-align: center;
+    top: 10px;
+
+}
