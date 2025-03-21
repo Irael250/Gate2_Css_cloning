@@ -389,7 +389,32 @@ img{
     list-style: none;
     
 }
-.footer ul li a{
 
-    
+.book11{
+    background-color: #0C2340;
+}
+.book11 ul{
+    display: flex;
+    gap: 3rem;
+    color: white;
+    list-style: none;
+    padding: 3rem;
+    margin-left: 14rem;
+
+}
+.noback{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+}
+.nobackcnt ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+    list-style: none;
+    font-size:15px;
+}
+.phnes{
+    font-size: 17px;
 }
