@@ -13,15 +13,17 @@ img{
     height: 150px;
 }
 .menus{
+    position: relative;
     margin: 0;
     margin-left: 600px;
-    margin-top: -100px;
+    margin-top: -150px;
 }
 .menus ul{
+    position: relative;
     display: flex;
     color: aliceblue;
     list-style: none;
-    gap: 80px;
+    gap: 100px;
     
 }
 .menus ul li a:hover{
@@ -214,4 +216,38 @@ img{
 }
 .part2Text{
     color: rgb(28, 13, 52);
+}
+
+
+
+.content2{
+    float: left;
+    width: 60%;
+    height: 390px;
+    background: #edf7fa;
+    margin-left: 450px;
+    color: #151b2f;
+    justify-content: left;
+    text-align: left;
+    margin-top: -400px;
+    
+}
+
+.house{
+    width: 50%;
+    height: 350px;
+    top: -350px;
+    left: 10px;
+
+}
+.content2 ul li{
+    list-style: none;
+}
+.content2 ul li a{
+    margin-left: 300px;
+    font-size: 25px;
+    color: #151b2f;
+    text-decoration: none;
+    font-style: oblique;
+    
 }
